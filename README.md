@@ -5,20 +5,22 @@
 
 Here are some ideas to get you started:
 
-# 🔭 I’m currently working on my Data Science Skills Bootcamp. I am new to computer programming, Python and Java Script as well as using GitHub and Git in general. I am learning a great deal and look forward to being able to impress future employers very soon! 
+I'm Sadie Cubitt;
 
-# 🌱 I’m currently learning Data Science, Python and Java Script. 
+div.cm - line 🔭 I’m currently working on my Data Science Skills Bootcamp. I am new to computer programming, Python and Java Script as well as using GitHub and Git in general. I am learning a great deal and look forward to being able to impress future employers very soon! 
 
-# 👯 I’m looking to collaborate on code for applications realted to Education for children and young people ages 2 to 16. 
+🌱 I’m currently learning Data Science, Python and Java Script. 
 
-# 🤔 I’m looking for help with everything right now! 
+👯 I’m looking to collaborate on code for applications realted to Education for children and young people ages 2 to 16. 
 
-# 💬 Ask me about my life - I am 34 years old and making a career change. Ask me anything. 
+🤔 I’m looking for help with everything right now! 
 
-# 📫 How to reach me: sadie.cubitt@gmail.com
+💬 Ask me about my life - I am 34 years old and making a career change. Ask me anything. 
 
-# 😄 Pronouns: She/Her
+📫 How to reach me: sadie.cubitt@gmail.com
 
-# ✨ Fun Fact: I'm a twin. 
+😄 Pronouns: She/Her
+
+✨ Fun Fact: I'm a twin. 
 
 -->
