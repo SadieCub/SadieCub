@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<!--
-**SadieCub/SadieCub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-I'm Sadie Cubitt;
+**I'm Sadie Cubitt**
 
 🔭 I’m currently working on my Data Science Skills Bootcamp. I am new to computer programming, Python and Java Script as well as using GitHub and Git in general. I am learning a great deal and look forward to being able to impress future employers very soon! 
 
